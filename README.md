@@ -6,7 +6,7 @@
 <a href="mailto:vitorravacci@gmail.com"> ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 <a href="https://www.linkedin.com/in/vitor-ravacci-78b56b169/"> ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://github.com/vitor115"> ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) </a>
-<a href="https://www.youtube.com/@explodcast66"> ![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) </a>
+<a href="https://www.youtube.com/@explodcast"> ![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) </a>
 
 ### About Me
 #### I am...
