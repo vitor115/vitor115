@@ -1,5 +1,5 @@
 # Hello there! My name is Vitor Ravacci 😉
-#### I am a Software developer focused on Front-end who loves to learn and meet knew people. I am currently working to become a greater developer everyday, sharping my skills by studying and working on personal projects. My main objective is to work in projects that I love and believe, when this motivation is on nothing can stop me! So if you are passing by my repositories feel free to reach me if needed it will be my pleasure to help.
+#### I am a Software developer focused on Front-end who loves to learn and meet new people. My main objective is to work in projects that I love and believe, when this motivation is on nothing can stop me! So if you are passing by my repositories feel free to reach me if needed, it will be my pleasure to help.
 
 
 ## Contact Information
