@@ -1,5 +1,5 @@
 # Hello there! My name is Vitor Ravacci 😉
-#### I am CEO of a HealthTech BU called Tegra Assistant and also a Software developer focused on Front-end who loves to learn and meet new people. My main objective is to work in projects that I love and believe can change the world! So if you are passing by my repositories feel free to reach me if needed, it will be my pleasure to help.
+#### I am a Generative AI Engineer Specialist and Software developer focused on Front-end who loves to learn and meet new people. My main objective is to work in projects that I love and believe can change the world! So if you are passing by my repositories feel free to reach me if needed, it will be my pleasure to help.
 
 
 ## Contact Information
